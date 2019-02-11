@@ -1,0 +1,2 @@
+# vulhunter
+This is Vulhunter's test program, which includes all the data and the already trained model. It evaluates the vulnerability detection (SQL injection and XSS) of the model. If you want to detect a new PHP program, you need to convert it to the sample data format.
